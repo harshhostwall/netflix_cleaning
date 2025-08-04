@@ -1,7 +1,7 @@
 Netflix Movies and TV Shows — Data Cleaning Summary:
 
 -The file netflix_titles_cleaned.csv is the cleaned data
--The file clean_netflix.py is the python code I used to clean the data.
+-The file clean_netflix.py is the python code I used to clean the data of netflix_titles.csv.
 -Dropped rows missing critical data in date_added column.
 -Filled missing values in director, cast, country, and rating columns with placeholders to maintain dataset integrity.
 -Removed duplicate rows to avoid redundant entries.
