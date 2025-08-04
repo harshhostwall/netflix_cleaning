@@ -1,5 +1,5 @@
-
 Netflix Movies and TV Shows — Data Cleaning Summary:
+
 -Dropped rows missing critical data in date_added column.
 -Filled missing values in director, cast, country, and rating columns with placeholders to maintain dataset integrity.
 -Removed duplicate rows to avoid redundant entries.
